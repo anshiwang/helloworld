@@ -1,0 +1,6 @@
+1. Git/Github的基本操作
+登录www.github.com申请账户
+建立一个Repository ，命名规则 test_姓名拼音（全拼）
+复制repository的地址，并通过idea下载到本地（VCS ----Get from  version）
+在本地添加一个文件 ，并添加一段文字，通过add,commit ,push上传到github
+录制一个小视频FastStone进行录制，程序已经上传到文件共享，里面有帮助文档，请学习使用。
